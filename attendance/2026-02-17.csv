@@ -1,0 +1,3 @@
+id,employee_id,full_name,attendance_date,clock_in,clock_out,total_hours,total_minutes,duration,is_late,is_absent,method,created_at,updated_at,time_quality,mono_in_ns,mono_out_ns,boot_id,time_corrected
+Khadija_Muhammad-2026-02-17-2,Khadija_Muhammad,Khadija Muhammad,2026-02-17,08:16:56 AM,05:00:00 PM,8.72,523.07,8:43:04,FALSE,FALSE,facial_recognition,2026-02-17T08:16:56.642005+01:00,2026-02-18T10:33:00.860309+01:00,SANE,15969777393140,,e42beed3-3c5f-4d11-b7c0-07cb9b223770,FALSE
+Salihu_Ado_Lawal-2026-02-17-1,Salihu_Ado_Lawal,Salihu Ado Lawal,2026-02-17,07:28:25 AM,05:00:00 PM,9.53,571.58,9:31:35,FALSE,FALSE,facial_recognition,2026-02-17T07:28:25.455931+01:00,2026-02-18T10:33:00.860309+01:00,SANE,13058598662240,,e42beed3-3c5f-4d11-b7c0-07cb9b223770,FALSE

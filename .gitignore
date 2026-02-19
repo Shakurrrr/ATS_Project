@@ -1,0 +1,23 @@
+* .env
+# Ignore the virtual environment folder
+venv/
+venv_backup/
+venv.qr
+
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore temporary files or backups
+*.bak
+*.tmp
+
+# Ignore binary packages that can be installed via pip
+*.whl
+
+# Ignore reports (or any data you don't want in the repo)
+reports/
+offline_logs.json
+
+# Ignore any log or database files
+*.log
+*.db

@@ -1,0 +1,1 @@
+id,employee_id,full_name,attendance_date,clock_in,clock_out,total_hours,total_minutes,duration,is_late,is_absent,method,created_at,updated_at,time_quality,mono_in_ns,mono_out_ns,boot_id,time_corrected

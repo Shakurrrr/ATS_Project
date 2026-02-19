@@ -1,0 +1,5 @@
+id,employee_id,full_name,attendance_date,clock_in,clock_out,total_hours,is_late,is_absent,method,created_at,updated_at
+Shehu_Yusuf-2025-09-10-1,Shehu_Yusuf,Shehu Yusuf,2025-09-10,17:24:47,,0.00,TRUE,FALSE,facial_recognition,2025-09-10T17:24:47.433982+01:00,2025-09-10T17:24:47.433982+01:00
+Hafiz_Lawan_Hassan-2025-09-10-2,Hafiz_Lawan_Hassan,Hafiz Lawan Hassan,2025-09-10,17:25:36,,0.00,TRUE,FALSE,facial_recognition,2025-09-10T17:25:36.871163+01:00,2025-09-10T17:25:36.871163+01:00
+Umar_Mahmoud_Abdullahi-2025-09-10-3,Umar_Mahmoud_Abdullahi,Umar Mahmoud Abdullahi,2025-09-10,17:26:02,,0.00,TRUE,FALSE,facial_recognition,2025-09-10T17:26:02.592600+01:00,2025-09-10T17:26:02.592600+01:00
+Abduljalal_Tijjani-2025-09-10-4,Abduljalal_Tijjani,Abduljalal Tijjani,2025-09-10,17:29:28,,0.00,TRUE,FALSE,facial_recognition,2025-09-10T17:29:28.048025+01:00,2025-09-10T17:29:28.048025+01:00
