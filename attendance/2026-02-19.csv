@@ -1,2 +1,2 @@
 id,employee_id,full_name,attendance_date,clock_in,clock_out,total_hours,total_minutes,duration,is_late,is_absent,method,created_at,updated_at,time_quality,mono_in_ns,mono_out_ns,boot_id,time_corrected
-Shehu_Yusuf-2026-02-19-1,Shehu_Yusuf,Shehu Yusuf,2026-02-19,11:55:16 AM,,0.00,0.00,,TRUE,FALSE,facial_recognition,2026-02-19T11:55:16.814830+01:00,2026-02-19T11:55:16.814830+01:00,SANE,1959768457244,,74dffa45-c792-429b-809c-429328268daf,FALSE
+Shehu_Yusuf-2026-02-19-1,Shehu_Yusuf,Shehu Yusuf,2026-02-19,11:55:16 AM,05:00:00 PM,5.08,304.73,5:04:44,TRUE,FALSE,facial_recognition,2026-02-19T11:55:16.814830+01:00,2026-02-20T10:18:30.597827+01:00,SANE,1959768457244,,74dffa45-c792-429b-809c-429328268daf,FALSE
