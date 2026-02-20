@@ -1,3 +1,4 @@
 *.whl filter=lfs diff=lfs merge=lfs -text
 employees/* filter=lfs diff=lfs merge=lfs -text
 face_recognition_models_backup/* filter=lfs diff=lfs merge=lfs -text
+face_recognition_models_backup/models/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
